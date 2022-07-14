@@ -1,6 +1,6 @@
 {
   "name": "dcjs-handler",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Command Handler for Discord.js",
   "main": "src/index.js",
   "scripts": {
@@ -18,7 +18,12 @@
   ],
   "author": "Aezral",
   "license": "MIT",
-  "bugs":""
+  "bugs":"https://github.com/Aezral/dcjs-handler/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aezral/dcjs-handler"
+  }
+
 
 
 }
