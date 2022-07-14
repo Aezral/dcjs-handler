@@ -1,0 +1,24 @@
+{
+  "name": "dcjs-handler",
+  "version": "1.0.5",
+  "description": "Command Handler for Discord.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/test.js",
+    "dev": "nodemon src/test.js"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "commands",
+    "command",
+    "handler",
+    "bot",
+    "node"
+  ],
+  "author": "Aezral",
+  "license": "MIT",
+  "bugs":""
+
+
+}
